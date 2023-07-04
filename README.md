@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hello, Daniel Araújo here 👋
+I'm a software developer with skills in front-end and back-end
 <!--
 **dan-araujo/dan-araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Daniel Araújo stats](https://github-readme-stats.vercel.app/api?username=dan-araujo&show_icons=true&theme=tokyonight)
+![Daniel Araújo stats](https://github-readme-stats.vercel.app/api?username=dan-araujo&show_icons=true&rank_icon=github&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-araujo&size_weight=0.5&count_weight=0.5)](https://github.com/dan-araujo/github-readme-stats)
